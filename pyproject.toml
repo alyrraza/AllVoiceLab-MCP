@@ -3,7 +3,7 @@ name = "allvoicelab-mcp"
 version = "0.0.1"
 description = "AllVoiceLab MCP Server"
 authors = [
-    {name = "AllVoiceLab", email = "support@example.com"}
+    {name = "AllVoiceLab", email = "tech@allvoicelab.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
