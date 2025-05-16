@@ -49,7 +49,7 @@ AllVoiceLab官方模型上下文协议(MCP)服务器，支持与强大的文本�
 ```json
 {
   "mcpServers": {
-    "AllVoceLab": {
+    "AllVoiceLab": {
       "command": "uvx",
       "args": ["allvoicelab-mcp"],
       "env": {

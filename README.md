@@ -51,7 +51,7 @@ Go to Claude > Settings > Developer > Edit Config > claude_desktop_config.json t
 ```json
 {
   "mcpServers": {
-    "AllVoceLab": {
+    "AllVoiceLab": {
       "command": "uvx",
       "args": ["allvoicelab-mcp"],
       "env": {

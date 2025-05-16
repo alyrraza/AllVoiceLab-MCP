@@ -1,6 +1,6 @@
 [project]
 name = "allvoicelab-mcp"
-version = "0.0.1"
+version = "0.0.3"
 description = "AllVoiceLab MCP Server"
 authors = [
     {name = "AllVoiceLab", email = "tech@allvoicelab.com"}
