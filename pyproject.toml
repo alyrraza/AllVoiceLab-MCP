@@ -1,11 +1,12 @@
 [project]
 name = "allvoicelab-mcp"
-version = "0.0.3"
+version = "0.0.4"
 description = "AllVoiceLab MCP Server"
 authors = [
     {name = "AllVoiceLab", email = "tech@allvoicelab.com"}
 ]
 readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.11"
 dependencies = [
     "build>=1.2.2.post1",

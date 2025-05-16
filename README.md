@@ -1,4 +1,4 @@
-![image](./doc/imgs/logo.jpeg)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/logo.jpeg)
 
 <div align="center" style="line-height: 1;">
   <a href="https://www.allvoicelab.com" target="_blank" style="margin: 2px; color: var(--fgColor-default);">
@@ -32,7 +32,7 @@ Official AllVoiceLab Model Context Protocol (MCP) server, supporting interaction
 
 ## Documentation
 
-[中文文档](./doc/README_CN.md)
+[中文文档](https://github.com/allvoicelab/AllVoiceLab-MCP/blob/main/doc/README_CN.md)
 
 ## Quickstart
 
@@ -93,70 +93,70 @@ That's it. Your MCP client can now interact with AllVoiceLab.
 
 Try asking: Convert "At All Voice Lab, we’re reshaping the future of audio workflows with AI-powered solutions, making authentic voices accessible to creators everywhere." into voice.
 
-![image](./doc/imgs/tts_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/tts_en.png)
 
 ### 2. Voice Conversion
 
 After generating the audio from the previous example, select the audio file and ask: Convert this to a male voice.
 
-![image](./doc/imgs/sts_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/sts_en.png)
 
 ### 3. Remove Background Noise
 
 Select an audio file with rich sounds (containing both BGM and human voice) and ask: Remove the background noise.
 
-![image](./doc/imgs/isolate_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/isolate_en.png)
 
 ### 4. Voice Cloning
 
 Select an audio file with a single voice and ask: Clone this voice.
 
-![image](./doc/imgs/clone_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/clone_en.png)
 
 ### 5. Video Translation
 
 Select a video file (English) and ask: Translate this video to japanese.
 
-![image](./doc/imgs/dubbing_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/dubbing_en.png)
 
 Original video: 
 
-![image](./doc/imgs/dubbing_en_ori.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/dubbing_en_ori.png)
 
 After translation: 
 
-![image](./doc/imgs/dubbing_en_result.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/dubbing_en_result.png)
 
 ### 6. Remove Subtitles
 
 Select a video with subtitles and ask: Remove the subtitles from this video.
 
-![image](./doc/imgs/remove_subtitle_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/remove_subtitle_en.png)
 
 Original video: 
 
-![image](./doc/imgs/remove_subtitle_en_ori.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/remove_subtitle_en_ori.png)
 
 After the task is completed: 
 
-![image](./doc/imgs/remove_subtitle_en_result.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/remove_subtitle_en_result.png)
 
 ### 7. Text Translation
 
 Select a long text (for example, "The Foolish Old Man Removes the Mountains") and ask: Translate this text to japanese.
 If no language is specified, it will be translated to English by default.
 
-![image](./doc/imgs/text_translate_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/text_translate_en.png)
 
 ### 8. Subtitle Extraction
 
 Select a video with subtitles and ask: Extract the subtitles from this video.
 
-![image](./doc/imgs/subtitle_extract_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/subtitle_extract_en.png)
 
 After the task is completed, you will get an SRT file as shown below:
 
-![image](./doc/imgs/subtitle_result_en.png)
+![image](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/subtitle_result_en.png)
 
 ## Troubleshooting
 
