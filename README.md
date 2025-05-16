@@ -2,7 +2,7 @@
 
 <div align="center" style="line-height: 1;">
   <a href="https://www.allvoicelab.com" target="_blank" style="margin: 2px; color: var(--fgColor-default);">
-  <img alt="Homepage" src="https://img.shields.io/badge/HomePage-AllVoiceLab-blue" style="display: inline-block; vertical-align: middle;"/>
+  <img alt="Homepage" src="https://img.shields.io/badge/HomePage-AllVoiceLab-blue?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iX+WbvuWxgl8xIiBkYXRhLW5hbWU9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDM1IDIwIj4KICA8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMjkuNS4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogMi4xLjAgQnVpbGQgMTQxKSAgLS0+CiAgPHBhdGggZD0iTTM0Ljg2LDUuMzFjLjIxLS4zMS0uMDEtLjcyLS4zOC0uNzJoLTIuOThjLS4yNCwwLS40Ni4xMi0uNTkuMzJsLTYuODksMTAuM2MtLjE3LjI2LS41NS4yNi0uNzMsMGwtMi4xNi0zLjExcy0uMDEtLjAyLS4wMi0uMDNMMTMuNjYsMS40Yy0uNTYtLjgtMS40Ny0xLjI2LTIuNDUtMS4yMi0uOTguMDQtMS44NS41Ny0yLjM1LDEuNDFMLjMyLDE2LjIzYy0uNTEuODgtLjQsMS45NC4yOCwyLjcuNzMuODEsMS45NCwxLjA2LDIuOTYuNmwuMTItLjA1LDkuMDMtNS43NGMuOTEtLjU4LDEuOTYtLjg5LDMuMDQtLjkxLjk4LDAsMS45MS40NiwyLjQ4LDEuMjZsMy4xNiw0LjU0Yy41LjcyLDEuMzUsMS4xNSwyLjI3LDEuMTVzMS43Ny0uNDMsMi4yOS0xLjE3bDguOTEtMTMuMzFoMFpNNi41OSwxMi40NWw0LjQyLTcuNTdjLjE3LS4yOS41OC0uMzEuNzctLjAzbDIuNzIsMy45Yy4xOS4yNy4wMy42NC0uMy43LTEuMi4yMS0yLjM1LjY1LTMuMzksMS4zMWwtMy41OSwyLjI4Yy0uNC4yNS0uODctLjItLjYzLS42MWgwWiIvPgo8L3N2Zz4=" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://www.allvoicelab.com/docs/introduction" style="margin: 2px;">
     <img alt="API" src="https://img.shields.io/badge/⚡_API-Platform-blue" style="display: inline-block; vertical-align: middle;"/>
