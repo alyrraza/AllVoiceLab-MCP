@@ -52,7 +52,7 @@ mcp.tool(
     """
 )(get_voices)
 
-# 语音处理相关工具
+
 mcp.tool(
     name="text_to_speech",
     description="""[AllVoiceLab Tool] Generate speech from provided text.
@@ -98,27 +98,27 @@ mcp.tool(
     """
 )(speech_to_speech)
 
-mcp.tool(
-    name="isolate_human_voice",
-    description="""[AllVoiceLab Tool] Extract clean human voice by removing background noise and non-speech sounds.
+# mcp.tool(
+#     name="isolate_human_voice",
+#     description="""[AllVoiceLab Tool] Extract clean human voice by removing background noise and non-speech sounds.
     
-    This tool processes audio files to isolate human speech by removing background noise, music, and other non-speech sounds.
-    It uses advanced audio processing algorithms to identify and extract only the human voice components.
+#     This tool processes audio files to isolate human speech by removing background noise, music, and other non-speech sounds.
+#     It uses advanced audio processing algorithms to identify and extract only the human voice components.
     
-    Args:
-        audio_file_path: Path to the audio file to process. Only MP3 and WAV formats are supported. Maximum file size: 50MB.
-        output_dir: Output directory for the processed audio file. Default is user's desktop.
+#     Args:
+#         audio_file_path: Path to the audio file to process. Only MP3 and WAV formats are supported. Maximum file size: 50MB.
+#         output_dir: Output directory for the processed audio file. Default is user's desktop.
         
-    Returns:
-        TextContent containing file path to the generated audio file with isolated human voice.
+#     Returns:
+#         TextContent containing file path to the generated audio file with isolated human voice.
         
-    Limitations:
-        - Only MP3 and WAV formats are supported。If there is mp4 file, you should extract the audio file first.
-        - Maximum file size: 50MB
-        - File must exist and be accessible
-        - Performance may vary depending on the quality of the original recording and the amount of background noise
-    """
-)(isolate_human_voice)
+#     Limitations:
+#         - Only MP3 and WAV formats are supported。If there is mp4 file, you should extract the audio file first.
+#         - Maximum file size: 50MB
+#         - File must exist and be accessible
+#         - Performance may vary depending on the quality of the original recording and the amount of background noise
+#     """
+# )(isolate_human_voice)
 
 mcp.tool(
     name="clone_voice",
@@ -145,7 +145,7 @@ mcp.tool(
     """
 )(clone_voice)
 
-# 配音和字幕处理相关工具
+
 mcp.tool(
     name="download_dubbing_audio",
     description="""[AllVoiceLab Tool] Download the audio file from a completed dubbing project.
