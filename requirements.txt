@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+sentence-transformers 
+faiss-cpu
+pypdf
+numpy
+langchain-community
+mcp
+langchain-huggingface
+google-generativeai
+streamlit
+streamlit-webrtc
+plotly
+scipy
+pydub
+pyPDF2

@@ -1,0 +1,3 @@
+[submodule "allvoicelab_mcp"]
+	path = allvoicelab_mcp
+	url = https://github.com/alyrraza/AllVoiceLab-MCP.git
