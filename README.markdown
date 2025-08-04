@@ -1,14 +1,11 @@
 ![Logo](https://github.com/allvoicelab/AllVoiceLab-MCP/raw/main/doc/imgs/logo.jpeg)
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/your-username/your-repo" style="margin: 2px;">
+  <a href="https://github.com/alyrraza/AllVoiceLab-MCP" style="margin: 2px;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repository-blue" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://www.allvoicelab.com" style="margin: 2px;">
     <img alt="AllVoiceLab" src="https://img.shields.io/badge/Powered_by-AllVoiceLab-blue" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="LICENSE" style="margin: 2px;">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
